@@ -1,0 +1,30 @@
+body{
+	font-family: 'Crimson Text', serif;
+}
+.imagespp {
+    width:230px;
+    height:230px;
+    border-radius: 10px;
+    
+}
+.bar{
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.couleurnav{
+    color: black;
+}
+a:hover {
+	color: black;
+}
+@media screen and (max-width: 768px){
+	.maxnav{
+		display: none;
+	}
+}
+@media screen and (min-width: 768px){
+	.minnav{
+		display: none;
+	}
+}
