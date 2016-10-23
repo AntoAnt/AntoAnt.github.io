@@ -23,6 +23,9 @@ a:hover {
 .nav > li > a:hover {
   background-color: #41c68f;
 }
+.b{
+	margin-bottom: 25px;
+}
 @media screen and (max-width: 768px){
 	.maxnav{
 		display: none;
